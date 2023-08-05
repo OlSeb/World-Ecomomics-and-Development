@@ -1,4 +1,4 @@
-# World-Ecpmomics-and-Development
+# World Ecomomics and Development
 
 As someone with family on 3 different continents and who is thinking about where to settle down, I found interest in visualizing and analyzing the world map with metrics such as GDP per capita, HDI index, and life expectancy. I hope you will find this dashboard as interesting as I had fun making it!
 
